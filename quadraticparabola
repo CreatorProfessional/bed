@@ -1,8 +1,0 @@
-local joemama = Instance.new("BodyPosition")
-joemama.D = "1250"
-joemama.MaxForce = Vector3.new(4000, 4000, 4000)
-joemama.P = "10000"
-joemama.Position = Vector3.new(0, 50, 0)
-joemama.Parent = game.Players.LocalPlayer.Character.LowerTorso
-wait(3)
-joemama:Destroy()
