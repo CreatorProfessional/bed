@@ -1,0 +1,2 @@
+local joemama = Instance.new("BodyPosition")
+joemama.Parent = game.Players.LocalPlayer.Character.LowerTorso
